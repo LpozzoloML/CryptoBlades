@@ -1,0 +1,10 @@
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\bin\Debug\CryptoBlades.exe.config
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\bin\Debug\CryptoBlades.exe
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\bin\Debug\CryptoBlades.pdb
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.Form1.resources
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.Properties.Resources.resources
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.exe
+C:\Users\lauta\source\repos\CryptoBlades\CryptoBlades\obj\Debug\CryptoBlades.pdb
